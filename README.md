@@ -71,9 +71,4 @@ Our project was developed during **Hackathena 2024**, where it was awarded **Win
 
 ---
 
-## 📬 Contact
-**Team Drive.AI** – Hackathena 2024 Winners  
-📧 youremail@example.com  
-🌐 GitHub: https://github.com/yourusername/DriveAI  
 
----
